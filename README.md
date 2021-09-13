@@ -5,7 +5,6 @@
 - 02 Fragmentos básico
 - 03 Reversa básico
 - 04 Cruzando Palabras
-- 05 Ambos Extremos
 - 06 Palíndromos
 - 07 Vocales Mayúsculas
 - 08 Locura
@@ -15,3 +14,8 @@
 - 12 Primera Vocal
 - 13 Eliminados
 - 14 Fecha
+
+# Mucho Éxito!!
+## Mucho Éxito!!
+### Mucho Éxito!!
+#### Mucho Éxito!!
