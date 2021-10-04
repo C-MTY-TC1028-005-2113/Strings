@@ -5,11 +5,7 @@ def main():
 
     auxiliar = "aeiouAEIUO"
 
-    cont = 0
 
-    while cadena[cont] not in auxiliar:
-        cont = cont+1
-    
     print("El número de caracteres antes de la primera vocal es:",cont)
 
 if __name__=='__main__':
