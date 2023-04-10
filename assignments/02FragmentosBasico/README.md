@@ -25,7 +25,7 @@ Salida:
 	En la primera línea imprimir la longitud de la cadena recibido.
 	En la segunda línea imprimir solo el primer carácter de la cadena recibido.
 	En la tercera línea imprimir solo el último carácter de la cadena recibido.
-	En la cuarta línea imprimir solo los caracteres con índice impar dentro dede la cadena.
+	En la cuarta línea imprimir solo los caracteres con índice impar dentro de la cadena.
 
 
 Ejemplo:
